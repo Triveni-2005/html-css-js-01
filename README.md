@@ -1,1 +1,1 @@
-# html-css-js-01
+This project is a simple and interactive Rock Paper Scissors game developed using HTML, CSS, and JavaScript. It allows users to play against the computer, which makes random choices each round. The game provides instant feedback on the result (win, lose, or draw) and keeps track of the score in real time. Designed with a clean and user-friendly interface, this project demonstrates basic JavaScript concepts like DOM manipulation, event handling, and game logic implementation.
